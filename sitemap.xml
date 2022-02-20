@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.instamobel.com/</loc>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/servicios.htm</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/servicio-montaje-cocinas.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/servicio-montaje-muebles.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/servicio-montaje-puertas.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/servicio-montaje-tarima-flontante.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/servicio-transporte-muebles.png</image:loc>
+   </image:image>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/index.html</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/cocinas.jpg</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/muebles-hogar.jpg</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/puerta.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/tarima-flotante.jpg</image:loc>
+   </image:image> 
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/quienes-somos.htm</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/quienes-somos-instamobel.jpg</image:loc>
+   </image:image>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/tarifas.htm</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/atornillador-tarifa-montaje-cocinas.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/atornillador-tarifa-montaje-muebles.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/destornillador-tarifa-montaje-puertas.png</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/destornillador-tarifa-montaje-tarima.jpg</image:loc>
+   </image:image>
+   <image:image>
+     <image:loc>http://www.instamobel.com/images/camion-tarifa-transporte-muebles.png</image:loc>
+   </image:image>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/contacta.htm</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/contacta-instamobel.png</image:loc>
+   </image:image>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.instamobel.com/trabaja-con-nosotros.htm</loc>
+  <image:image>
+     <image:loc>http://www.instamobel.com/images/trabaja-con-instamobel.png</image:loc>
+   </image:image>
+  <lastmod>2012-04-24T06:25:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

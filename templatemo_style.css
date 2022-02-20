@@ -1,0 +1,508 @@
+/*
+Credit: http://www.templatemo.com
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.7em;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #666;
+    background: #e5e5e5  url(images/templatmeo_body_top_red.jpg) repeat-x top;
+}
+		
+a:link, a:visited { color: #C00; text-decoration: none; font-weight: normal; } 
+a:active, a:hover { color: #333333; text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
+ 
+
+p {
+	margin: 0px;
+	padding: 0px;
+	color: #666;
+}
+
+img { margin: 0px; padding: 0px; border: none; }
+/* mirar si se puede quitar */
+.float_l {
+	float: left;
+}
+
+.float_r {
+	float: right;
+}
+/* mirar si se puede quitar */
+.cleaner { clear: both; width: 100%; height: 0px; font-size: 0px;  }
+.cleaner_h20 { clear: both; width:100%; height: 20px; }
+.cleaner_h30 { clear: both; width:100%; height: 30px; }
+.cleaner_h40 { clear: both; width:100%; height: 40px; }
+
+ 
+#templatmeo_wrapper {
+	width: 970px;
+	margin: 0 auto;
+}
+
+/* header */
+
+#templatemo_header {
+	clear: both;
+	width: 910px;
+	height: 100px;
+	padding: 10px 30px;
+	background: url(images/templatemo_header.jpg) no-repeat;
+}
+
+#templatemo_header  #site_title {
+	float: left;
+	width: 365px;
+	padding-top: 0px;
+	padding-left: 0px;
+}
+
+
+
+/* santa claus - padding*top 10px logo resto del año */ 
+
+#templatemo_header  #bottom {
+	float: right;
+	width: 150px;
+	padding-top: 0 px;
+	padding-left: 15px;
+}
+ /* end of header */
+
+/* banner */
+
+#templatemo_banner {
+	width: 970px;
+	height: 280px;
+	padding: 10px 0;
+}
+
+#templatemo_banner #banner_box ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#templatemo_banner #banner_box li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+#templatemo_banner #banner_box li a {
+	position: relative;
+	display: block;
+	float: left;
+	width: 230px;
+	height: 280px;
+	margin-left: 10px;
+}
+
+#templatemo_banner #banner_box li span {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	width: 230px;
+	height: 217px;
+}
+
+#templatemo_banner #banner_box li a span:hover {
+	background: url(images/templatemo_banner_hover.png) no-repeat;
+}
+
+#templatemo_banner #banner_box li .current {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	width: 230px;
+	height: 217px;
+	background: url(images/templatemo_banner_hover.png) no-repeat;
+}
+/* end of banner */
+
+/* menu */
+
+#templatemo_menu {
+	width: 950px;
+	height: 50px;
+	padding: 0 10px;
+	background: url(images/templatemo_menu.png) no-repeat center top;
+}
+
+#templatemo_menu ul {
+	margin: 0px;
+	padding: 15px 0 0 15px;
+	list-style: none;
+}
+
+#templatemo_menu ul li {
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+
+#templatemo_menu ul li a {
+	float: left;
+	display: block;
+	margin-right: 40px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #666666;	
+	font-weight: normal;
+	out-line: none;
+}
+#templatemo_menu ul li a:hover {
+	color: #C00;
+}
+
+#templatemo_menu ul li.current a{color: #C00;}
+
+/* end of menu */
+
+.templatemo_box {
+	margin-bottom: 10px;
+	background: url(images/templatemo_box_body.jpg) repeat-y right;
+}
+
+.templatemo_box .body {
+	padding: 5px 15px 5px 15px;
+	color: #000;
+}
+
+.templatemo_box h2 {
+	position: relative;
+	height: 25px;
+	margin: 0;
+	padding: 8px 15px;
+	font-size: 16px;
+	color: #C00;
+	font-weight: bold;
+	background: url(images/templatemo_box_tr.jpg) no-repeat top right;
+}
+
+ 
+ 
+.templatemo_box h2 span {
+	position: absolute;
+	width: 10px;
+	height: 35px;
+	top: 0px;
+	left: 0px;
+	background: url(images/templatemo_box_tl.jpg);
+}
+
+.templatemo_box .box_bottom {
+	position: relative;
+	height: 12px;
+	background: url(images/templatemo_box_br.jpg) top right;
+}
+
+.templatemo_box .box_bottom span {
+	position: absolute;
+	width: 10px;
+	height: 12px;
+	top: 0;
+	left: 0;
+	background: url(images/templatemo_box_bl.jpg);
+}
+
+.side_menu {
+	list-style: none;
+	padding: 0px;
+	margin: 0 0 0 0;
+}
+
+.side_menu li {
+	padding: 0;
+	margin: 5px 0;
+}
+
+.side_menu li a {
+	display: block;
+	color: #666;
+	padding: 0px 15px;
+	font-weight: normal;
+	text-decoration: none;
+	background: url(images/templatemo_menu_list.png) left center no-repeat;
+}
+
+.side_menu li a:hover {
+	color: #c85d16;
+}
+
+/* content*/
+
+#templatemo_content_wrapper {
+	clear: both;
+	padding: 10px;
+}
+
+#templatemo_content_wrapper h1 {font-size: 24px; font-family: sans-serif; color: #C00000; font-weight: normal; }
+
+#templatemo_left_sidebar {
+	float: left;
+	margin-right: 10px;
+	width: 950px;
+}
+
+ 
+#templatemo_right_sidebar {
+	float: left;
+	width: 938px;
+	height: 90px;
+	background:url(images/sombra-video.png);
+	 
+}
+
+#templatemo_content {
+	float: left;
+	width: 939px;
+	height:528px;
+	  
+}
+
+.news_image {
+	float: left;
+	margin: 3px 15px 0 0;
+	 
+}
+
+.news_box {
+	clear: both;
+	margin-bottom:20px;
+	color: #000;
+}
+	
+.news_box h3{
+	font-size: 14px;
+	margin: 0 0 10px 0;
+}
+
+ 
+.sidebar_box {
+	margin-bottom: 10px;
+}
+
+/* footer */
+
+#templatemo_footer_wrapper {
+	background: #bfbfbf url(images/templatemo_footer_red.jpg)  top repeat-x;
+}
+
+.image_footer { 
+    float:right;
+	margin: 30px 15px 0px 0px;
+	width: 356px;
+	height: 58px;
+	  }
+
+#templatemo_footer {
+	width: 950px;
+	padding: 30px 10px;
+	margin: 0 auto;
+	text-align: center;
+	color: #FFF ;
+}
+
+#templatemo_footer a {
+	color: #FFF;
+	font-weight:normal ;
+}
+
+#templatemo_footer a:hover {
+	color: #333333;
+	font-weight: normal;
+}
+
+
+#templatemo_footer a:hover {
+	text-decoration: none;
+}
+
+#templatemo_footer .footer_menu {
+	margin: 0 0 10px 0;
+	padding: 0px;
+	list-style: none;
+}
+
+.footer_menu li {
+	margin: 0px;
+	padding: 0 20px;
+	display: inline;
+	border-right: none;
+}
+
+.footer_menu .last_menu {
+	border: none;
+}
+
+/* end of footer */
+ 
+	
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos table {width: 500px;
+  float: left;
+  background-color: #FFF;
+  color: #333;
+}
+	
+/* formulario */
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos table tr td #nombre {width: 331px; font-family: "Eras Medium ITC"; font-size:14px}
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos table tr td #telefono {width: 331px; font-family: "Eras Medium ITC"; font-size:14px}
+
+ #templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos table tr td #email {width: 331px; font-family: "Eras Medium ITC"; font-size:14px}
+
+ #templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos table tr td #texto { width:331px; font-family: "Eras Medium ITC";font-size: 14px;}
+ 
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box #instamobelcontactos {
+	float: left;
+}
+/* end of formulario */
+
+/* tarifa muebles */
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .furniture_rate 
+ {float:left; width:770px;}
+ 
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .furniture_rate .furniture_rate_left {float: left; width: 365px;}
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .furniture_rate .furniture_rate_right {float:right; width: 365px;}
+ 
+ /* end of tarifa muebles */
+ 
+/*pagina tarifa texto bajo */
+
+ #templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .kitchen_conection_rate {
+	float: left;
+	margin-left: 125px;
+	padding-top: 5px;
+    color: #666; } 
+	
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body div #texto_bajo_tarifa {
+	float: left;
+	margin-left: 125px;
+}
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body div #texto_bajo_tarifa_1 {
+	float: left;
+	padding-top: 12px; 
+}
+
+/* fin pagina tarifa texto bajo */ 
+
+/* pagina de correcto */
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .error_correct {
+	float: left;
+	color:#666;
+}
+
+ /* fin pagina de correcto */
+ 
+ 
+  /* pagina de error */
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .image_error_correct {
+	float:left;
+	margin-left: 200px;
+}
+
+#templatmeo_wrapper #templatemo_content_wrapper #templatemo_left_sidebar .templatemo_box .body .news_box .error_correct {
+	font-size: 18px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+ /* fin pagina de error */ 
+ 
+ 
+ /* tabla tarifas */ 
+  
+table.zebra {font-family: 'trebuchet MS', 'Lucida sans', Arial;
+    font-size: 14px;
+    color: #444;
+    *border-collapse: collapse; /* IE7 and lower */
+    border-spacing: 0;
+    float: left;
+	text-align:center;   
+}
+
+.zebra {
+    border: solid #ccc 1px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 1px 1px #ccc; 
+    -moz-box-shadow: 0 1px 1px #ccc; 
+    box-shadow: 0 1px 1px #ccc; 
+        
+}
+
+ .zebra td, .zebra th {
+    padding: 4px;
+    border-bottom: 1px solid #f2f2f2;    
+}
+
+.zebra tbody tr:nth-child(even) {
+    background: #f5f5f5;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+}
+
+.zebra th {
+    text-align: left;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+    border-bottom: 1px solid #ccc;
+    background-color: #eee;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#eee));
+    background-image: -webkit-linear-gradient(top, #f5f5f5, #eee);
+    background-image:    -moz-linear-gradient(top, #f5f5f5, #eee);
+    background-image:     -ms-linear-gradient(top, #f5f5f5, #eee);
+    background-image:      -o-linear-gradient(top, #f5f5f5, #eee); 
+    background-image:         linear-gradient(top, #f5f5f5, #eee);
+}
+
+.zebra th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;  
+}
+
+.zebra th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+.zebra th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+.zebra tfoot td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+.zebra tfoot td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+.zebra tfoot td:only-child{
+    -moz-border-radius: 0 0 6px 6px;
+    -webkit-border-radius: 0 0 6px 6px
+    border-radius: 0 0 6px 6px
+}
+
+  
+  /* fin fin tabla tarifas */ 
+ 

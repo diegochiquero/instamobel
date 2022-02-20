@@ -1,0 +1,1 @@
+As a developer self-taught, I went from this <a href="https://templatemo.com/live/templatemo_230_city_portal" target="_blank">website template</a> to this website <a href="" target="_blank"> instamobel</a>, which offered installation and assembly services for kitchens, home and office furniture, interior and entrance doors, floating flooring. Back in the year 2010.
